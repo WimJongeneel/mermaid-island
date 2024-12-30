@@ -1,0 +1,20 @@
+{
+  "Name": "FlowerGarden [CP]",
+  "Author": "Wim Jongeneel",
+  "Version": "0.0.1",
+  "Description": "Adds a new region to the map with a flower garden the player can restore. (Content Pack)",
+  "UniqueID": "WimJongeneel.FlowerGardenCP",
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher"
+  },
+  "Dependencies": [
+    {
+      "UniqueID": "WimJongeneel.FlowerGarden",
+      "IsRequired": true
+    },
+    {
+      "UniqueID": "Pathoschild.ContentPatcher",
+      "IsRequired": true
+    }
+  ]
+}

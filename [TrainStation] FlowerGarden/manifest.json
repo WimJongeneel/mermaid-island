@@ -1,0 +1,19 @@
+{
+  "Name": "FlowerGarden [TrainStation]",
+  "Author": "Cherry",
+  "Version": "2.0.0",
+  "Description": "Adds a train station ticket that lets you visit the flower garden.",
+  "UniqueID": "WimJongeneel.FlowerGardenTS",
+  "ContentPackFor": {
+    "UniqueID": "Cherry.TrainStation"
+  },
+  "Dependencies": [
+    {
+      "UniqueID": "WimJongeneel.FlowerGardenCP",
+      "IsRequired": true
+    },
+    {
+      "UniqueID": "Cherry.TrainStation"
+    }
+  ]
+}

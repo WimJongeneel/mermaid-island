@@ -1,0 +1,29 @@
+{
+  "$schema": "https://smapi.io/schemas/content-patcher.json",
+  "Format": "2.4.0",
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Data/Locations",
+      "Entries": {
+        "{{ModId}}_FlowerGarden": {
+          "CreateOnLoad": {
+            "MapPath": "Maps/{{ModId}}_FlowerGarden"
+          }
+        }
+      }
+    },
+    {
+      "Action": "Load",
+      "Target": "Maps/{{ModId}}_FlowerGarden",
+      "FromFile": "assets/flower-garden.tmx"
+    },
+    {
+      "Action": "EditMap",
+      "Target": "Maps/Town",
+      "AddWarps": [
+        "29 67 {{ModId}}_FlowerGarden"
+      ],
+    }
+  ]
+}
