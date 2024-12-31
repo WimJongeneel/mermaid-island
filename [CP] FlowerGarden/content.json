@@ -18,12 +18,5 @@
       "Target": "Maps/{{ModId}}_FlowerGarden",
       "FromFile": "assets/flower-garden.tmx"
     },
-    {
-      "Action": "EditMap",
-      "Target": "Maps/Town",
-      "AddWarps": [
-        "29 67 {{ModId}}_FlowerGarden"
-      ],
-    }
   ]
 }
