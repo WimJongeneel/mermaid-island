@@ -1,0 +1,23 @@
+{
+  "TrainStops": [
+    {
+      "TargetMapName": "WimJongeneel.MermaidIslandCP_MermaidIsland",
+      "LocalizedDisplayName": {
+        "en": "The Mermaid Island",
+        "ko": "The Mermaid Island",
+        "zh": "The Mermaid Island",
+        "ja": "The Mermaid Island",
+        "ru": "The Mermaid Island",
+        "pt": "The Mermaid Island",
+        "fr": "The Mermaid Island",
+        "de": "The Mermaid Island",
+        "es": "The Mermaid Island",
+        "tr": "The Mermaid Island"
+      },
+      "TargetX": 20,
+      "TargetY": 50,
+      "Cost": 20,
+      "FacingDirectionAfterWarp": 0
+    }
+  ]
+}

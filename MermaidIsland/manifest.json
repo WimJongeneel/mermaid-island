@@ -1,0 +1,10 @@
+{
+  "Name": "MermaidIsland",
+  "Author": "Wim Jongeneel",
+  "Version": "0.0.1",
+  "Description": "Adds a new region to the map with a Mermaid Island the player can restore. (The dll file)",
+  "UniqueID": "WimJongeneel.MermaidIsland",
+  "EntryDll": "MermaidIsland.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": []
+}

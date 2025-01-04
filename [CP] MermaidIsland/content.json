@@ -6,17 +6,17 @@
       "Action": "EditData",
       "Target": "Data/Locations",
       "Entries": {
-        "{{ModId}}_FlowerGarden": {
+        "{{ModId}}_MermaidIsland": {
           "CreateOnLoad": {
-            "MapPath": "Maps/{{ModId}}_FlowerGarden"
+            "MapPath": "Maps/{{ModId}}_MermaidIsland"
           }
         }
       }
     },
     {
       "Action": "Load",
-      "Target": "Maps/{{ModId}}_FlowerGarden",
-      "FromFile": "assets/flower-garden.tmx"
+      "Target": "Maps/{{ModId}}_MermaidIsland",
+      "FromFile": "assets/mermaid-island.tmx"
     },
   ]
 }

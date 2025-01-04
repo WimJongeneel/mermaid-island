@@ -1,15 +1,15 @@
 {
-  "Name": "FlowerGarden [CP]",
+  "Name": "MermaidIsland [CP]",
   "Author": "Wim Jongeneel",
   "Version": "0.0.1",
-  "Description": "Adds a new region to the map with a flower garden the player can restore. (Content Pack)",
-  "UniqueID": "WimJongeneel.FlowerGardenCP",
+  "Description": "Adds a new region to the map with a Mermaid Island the player can restore. (Content Pack)",
+  "UniqueID": "WimJongeneel.MermaidIslandCP",
   "ContentPackFor": {
     "UniqueID": "Pathoschild.ContentPatcher"
   },
   "Dependencies": [
     {
-      "UniqueID": "WimJongeneel.FlowerGarden",
+      "UniqueID": "WimJongeneel.MermaidIsland",
       "IsRequired": true
     },
     {

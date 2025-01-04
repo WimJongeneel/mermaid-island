@@ -1,8 +1,8 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <AssemblyName>FlowerGarden</AssemblyName>
-    <RootNamespace>FlowerGarden</RootNamespace>
+    <AssemblyName>MermaidIsland</AssemblyName>
+    <RootNamespace>MermaidIsland</RootNamespace>
     <Version>0.0.1</Version>
     <TargetFramework>net6.0</TargetFramework>
 

@@ -1,15 +1,15 @@
 {
-  "Name": "FlowerGarden [TrainStation]",
+  "Name": "MermaidIsland [TrainStation]",
   "Author": "Cherry",
   "Version": "2.0.0",
-  "Description": "Adds a train station ticket that lets you visit the flower garden.",
-  "UniqueID": "WimJongeneel.FlowerGardenTS",
+  "Description": "Adds a train station ticket that lets you visit the Mermaid Island.",
+  "UniqueID": "WimJongeneel.MermaidIslandTS",
   "ContentPackFor": {
     "UniqueID": "Cherry.TrainStation"
   },
   "Dependencies": [
     {
-      "UniqueID": "WimJongeneel.FlowerGardenCP",
+      "UniqueID": "WimJongeneel.MermaidIslandCP",
       "IsRequired": true
     },
     {
