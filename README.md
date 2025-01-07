@@ -1,8 +1,6 @@
 # Mermaid Island, a custom Stardew Valley location
 
-<p align="center">
-**Work In Progress**
-</p>
+<p align="center"><b>Work In Progress</b></p>
 
 ## Introduction
 
