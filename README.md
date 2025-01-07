@@ -20,6 +20,6 @@ This is a mod that adds a custom location to the game (...)
 
 - Make sure to have unpacked the games XNB files with [StardewXnbHack](https://github.com/Pathoschild/StardewXnbHack)
 - Run `reset_map_source.cmd`, this will copy the tmx file to the unpacked content folder
-- Open `C:\Program Files (x86)\Steam\steamapps\common\Stardew Valley\Content (unpacked)\Maps\mermaid-island.tmx` in Tiled
+- Open `C:\Program Files (x86)\Steam\steamapps\common\Stardew Valley\Content (unpacked)\Maps\mermaid-island.tmx` in [Tiled](http://www.mapeditor.org/)
 - You can now edit the map, see [Modding:Maps](https://stardewvalleywiki.com/Modding:Maps) and [Modding:Location_data](https://stardewvalleywiki.com/Modding:Location_data)
 - When running `build.cmd` it will automaticly copy the tmx file from the unpacked content folder when its present
