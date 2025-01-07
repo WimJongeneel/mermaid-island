@@ -9,7 +9,7 @@ set map_target=".\[CP] MermaidIsland\assets"
 
 dotnet build
 
-copy /y %map_src% %map_target%
+if exist %map_src% copy /y %map_src% %map_target%
 
 if exist %cp_out_folder% rmdir /s /q %cp_out_folder%
 robocopy %cp_folder% %cp_out_folder% /e
