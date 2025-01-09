@@ -2,15 +2,25 @@
 
 <p align="center"><b>Work In Progress</b></p>
 
+![image](/images/screenshot.png)
+
 ## Introduction
 
 This is a mod that adds a custom location to the game (...)
+
+## Install
+
+- Install and configure the Stardew Valley mod loader: [SMAPI - Stardew Modding API](https://www.nexusmods.com/stardewvalley/mods/2400)
+- Install [Content Patcher](https://www.nexusmods.com/stardewvalley/mods/1915), needed to load the custom content into the game
+- Install [Train Station](https://www.nexusmods.com/stardewvalley/mods/6183), the island will be added as a destination to the train station. Make sure that you install the SV 1.6 compatable version, this is not the default download on Nexus
+- Download the latest build [todo](/)
+- Unzip the downloaded file into your `Stardew Valley\Mods` folder
 
 ## Build and run from source
 
 - Install and configure the Stardew Valley mod loader: [SMAPI - Stardew Modding API](https://www.nexusmods.com/stardewvalley/mods/2400)
 - Install [Content Patcher](https://www.nexusmods.com/stardewvalley/mods/1915), needed to load the custom content into the game
-- Install [Train Station](https://www.nexusmods.com/stardewvalley/mods/6183), the island will be added as a destination to the train station
+- Install [Train Station](https://www.nexusmods.com/stardewvalley/mods/6183), the island will be added as a destination to the train station. Make sure that you install the SV 1.6 compatable version, this is not the default download on Nexus
 - Install dotnet
 - Run `build.cmd` in the project root. This scripts asumes you installed Stardew Valley from Steam in the default location.
 
